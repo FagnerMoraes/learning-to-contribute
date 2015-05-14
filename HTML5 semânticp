@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<!-- Aqui você pode referenciar seus arquivos externos -->
+</head>
+<body>
+<header>
+<!-- Cabeçalho do corpo da página -->
+<nav>
+<!-- menu principal -->
+<nav>
+</header>
+<section>
+<!-- Uma sessão que guardará o conteudo da página -->
+</section>
+<aside>
+<!-- Um menu lateral -->
+</aside>
+<footer>
+<!-- Rodapé do corpo da página -->
+</footer>
+</body>
+</html>
